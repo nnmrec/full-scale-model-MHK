@@ -1,7 +1,7 @@
 MATLAB Script for performance characterization of a full-scale horizontal axis MHK turbine (DOE RM1)
 ====================
 
-This repository includes the MATLAB script and sample of input files for it to calculate 3D AOA, CL and CD along the blade of a full-scale model horizontal axis MHK turbine. This script was specifically developed for performance characterization of the DOE RM1 turbine design, a two-bladed horizontal axis MHK turbine developed by US Department of Energy &amp; US National Labs. This general script can be modified for performance characterization of other horizontal axis MHK and/or Wind turbines simulated via other RANS-solver packages (i.e. OPEN FOAM, STAR CCM and etc.)
+This repository includes the MATLAB script and sample of input files for it to calculate 3D AOA, CL and CD along the blade of a full-scale model horizontal axis MHK turbine. This script was specifically developed for performance characterization of the DOE RM1 turbine design, a two-bladed horizontal axis MHK turbine developed by US Department of Energy &amp; US National Labs. The MATLAB script takes it's inputs from RANS simulation of the turbine and report variables to characterize the blade performnace. This general script can be modified for performance characterization of other horizontal axis MHK and/or Wind turbines simulated via other RANS-solver packages (i.e. OPEN FOAM, STAR CCM and etc.)
 
 This script was developed as a part of the Ph.D. dissertation of [Teymour Javaherchi] at [UW-NNMREC] under supervision of professor [Alberto Aliseda].
 
