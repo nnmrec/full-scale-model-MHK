@@ -41,8 +41,6 @@ License
 ======
 This work is licensed under the MIT license
 
-**Free Software, Hell Yeah!**
-
 [Teymour Javaherchi]:http://staff.washington.edu/teymourj/
 [UW-NNMREC]:http://depts.washington.edu/nnmrec/
 [Alberto Aliseda]:https://www.me.washington.edu/research/faculty/aaliseda/index.html
