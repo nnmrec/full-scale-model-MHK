@@ -19,7 +19,7 @@ Follow the steps below to run the script:
   - ! To run the script for a new turbine design and/or new input format the script needs to be modified.
   - Run the code.
   
-Pblications
+Publications
 ===========
 The generated data via this script was used in the following publication:
 
