@@ -21,7 +21,7 @@ Follow the steps below to run the script:
   
 Publications
 ===========
-The generated data via this script was used in the following publication:
+The generated data via this script was used in the following [publication]:
 
 ```
 @CONFERENCE{Javaherchi_METS_2013,
@@ -46,3 +46,4 @@ This work is licensed under the MIT license
 [Teymour Javaherchi]:http://staff.washington.edu/teymourj/
 [UW-NNMREC]:http://depts.washington.edu/nnmrec/
 [Alberto Aliseda]:https://www.me.washington.edu/research/faculty/aaliseda/index.html
+[publication]:http://www.foroceanenergy.org/wp-content/uploads/2013/07/EXPERIMENTAL-AND-NUMERICAL-ANALYSIS-OF-THE-DOE-REFERENCE-MODEL-1.pdf
